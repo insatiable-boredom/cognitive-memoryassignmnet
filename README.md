@@ -34,7 +34,7 @@ If running locally:
 
 ```bash
 pip install matplotlib numpy
-
+```
 ## Usage
 
 This notebook is designed for educational purposes and is especially relevant for those interested in:
